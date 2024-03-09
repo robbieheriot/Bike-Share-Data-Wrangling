@@ -1,7 +1,5 @@
 # Bike Sharing Dataset Tasks
 
-### Robbie Heriot
-
 ### Introduction
 
 This project which I completed for my Masters explores various tasks using the Bike Sharing dataset, which contains information about the daily count of rental bikes between the years 2011 and 2012 in the Capital bike share system, along with corresponding weather and seasonal information.
